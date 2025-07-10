@@ -1,6 +1,6 @@
 [submodule "api"]
 	path = api
-	url = git@github.com:nighthack/Appizap-BillingAPI.git
+	url = git@github.com:Adithya-003/Appizap-billing-api.git
 [submodule "front"]
 	path = front
 	url = git@github.com:nighthack/Appizap-BillingFrontend.git
